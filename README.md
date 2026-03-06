@@ -5,6 +5,12 @@ This repository contains practice projects focused on healthcare data analysis u
 
 The goal is to strengthen practical data analysis skills commonly used in healthcare analytics, epidemiology, and real-world evidence (RWE) research.
 
+## Repository Structure
+healthcare-data-analysis/
+│
+├── hospital_readmission_EDA.ipynb
+└── README.md
+
 ---
 
 # Project: Hospital Readmission Exploratory Data Analysis
