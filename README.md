@@ -1,6 +1,5 @@
 # Main analysis notebook:  
-Hospital Readmission Exploratory Data Analysis
-(Hospital_Readmission_Exploratory_Data_Analysis.ipynb)
+[Hospital_Readmission_Exploratory_Data_Analysis.ipynb](https://github.com/xiny87/healthcare-python-practice/blob/main/Hospital_Readmission_Exploratory_Data_Analysis.ipynb)
 
 This repository contains practice projects focused on healthcare data analysis using Python.
 
